@@ -1,0 +1,9 @@
+C:\Dev\Townsend\LeagueTests\obj\Debug\LeagueTests.csprojResolveAssemblyReference.cache
+C:\Dev\Townsend\LeagueTests\bin\Debug\LeagueTests.dll
+C:\Dev\Townsend\LeagueTests\bin\Debug\LeagueTests.pdb
+C:\Dev\Townsend\LeagueTests\bin\Debug\nunit.framework.dll
+C:\Dev\Townsend\LeagueTests\bin\Debug\Rhino.Mocks.dll
+C:\Dev\Townsend\LeagueTests\bin\Debug\nunit.framework.xml
+C:\Dev\Townsend\LeagueTests\bin\Debug\Rhino.Mocks.xml
+C:\Dev\Townsend\LeagueTests\obj\Debug\LeagueTests.dll
+C:\Dev\Townsend\LeagueTests\obj\Debug\LeagueTests.pdb

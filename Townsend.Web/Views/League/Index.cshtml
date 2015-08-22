@@ -1,0 +1,32 @@
+﻿@model System.Linq.IQueryable<Townsend.Domain.Entities.Angler>
+
+@{
+    ViewBag.Title = "League Table";
+    //    Layout = "_Layout";
+}
+<link href="~/Content/Css/bootstrap.css" rel="stylesheet" />
+<script src="~/Content/Scripts/jquery-2.1.4.js"></script>
+<script src="~/Content/Scripts/bootstrap.js"></script>
+<h2>League Table</h2>
+
+<div class="container">
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Points</th>
+                <th>Total Weight</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var angler in Model)
+            {
+                <tr>
+                    <td>@angler.FirstName @angler.Surname</td>
+                    <td>@angler.Points</td>
+                    <td>@angler.TotalWeight</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

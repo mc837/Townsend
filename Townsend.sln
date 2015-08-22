@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{064678B2-B682-4A1F-A75F-2B53E69BB08B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Townsend.WebTests", "LeagueTests\Townsend.WebTests.csproj", "{54653D9E-83AE-41C8-A5F4-D77984E4B4F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{0CDE7702-4C7E-46C0-A9C9-7AE434C409A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Townsend.Web", "Townsend.Web\Townsend.Web.csproj", "{26867B8F-F1DD-4DBD-A50C-DA9C242CCD15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Townsend.Domain", "Townsend.Domain\Townsend.Domain.csproj", "{F70218DD-A081-41A9-B1DF-B74FFFCF82C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Townsend.DomainTests", "Townsend.DomainTests\Townsend.DomainTests.csproj", "{CFE68322-0DF3-443F-B271-04DE1262DE27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54653D9E-83AE-41C8-A5F4-D77984E4B4F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54653D9E-83AE-41C8-A5F4-D77984E4B4F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54653D9E-83AE-41C8-A5F4-D77984E4B4F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54653D9E-83AE-41C8-A5F4-D77984E4B4F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26867B8F-F1DD-4DBD-A50C-DA9C242CCD15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26867B8F-F1DD-4DBD-A50C-DA9C242CCD15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26867B8F-F1DD-4DBD-A50C-DA9C242CCD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26867B8F-F1DD-4DBD-A50C-DA9C242CCD15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F70218DD-A081-41A9-B1DF-B74FFFCF82C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F70218DD-A081-41A9-B1DF-B74FFFCF82C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F70218DD-A081-41A9-B1DF-B74FFFCF82C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F70218DD-A081-41A9-B1DF-B74FFFCF82C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFE68322-0DF3-443F-B271-04DE1262DE27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE68322-0DF3-443F-B271-04DE1262DE27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE68322-0DF3-443F-B271-04DE1262DE27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE68322-0DF3-443F-B271-04DE1262DE27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{54653D9E-83AE-41C8-A5F4-D77984E4B4F3} = {0CDE7702-4C7E-46C0-A9C9-7AE434C409A9}
+		{0CDE7702-4C7E-46C0-A9C9-7AE434C409A9} = {064678B2-B682-4A1F-A75F-2B53E69BB08B}
+		{CFE68322-0DF3-443F-B271-04DE1262DE27} = {0CDE7702-4C7E-46C0-A9C9-7AE434C409A9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Dev\Townsend\Townsend.Domain\bin\Debug\Townsend.Domain.dll
+C:\Dev\Townsend\Townsend.Domain\bin\Debug\Townsend.Domain.pdb
+C:\Dev\Townsend\Townsend.Domain\obj\Debug\Townsend.Domain.csprojResolveAssemblyReference.cache
+C:\Dev\Townsend\Townsend.Domain\obj\Debug\Townsend.Domain.dll
+C:\Dev\Townsend\Townsend.Domain\obj\Debug\Townsend.Domain.pdb
+C:\Dev\Townsend\Townsend.Domain\bin\Debug\Townsend.Domain.dll.config
+C:\Dev\Townsend\Townsend.Domain\bin\Debug\EntityFramework.dll
+C:\Dev\Townsend\Townsend.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dev\Townsend\Townsend.Domain\bin\Debug\EntityFramework.xml
+C:\Dev\Townsend\Townsend.Domain\bin\Debug\EntityFramework.SqlServer.xml

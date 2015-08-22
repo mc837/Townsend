@@ -1,0 +1,11 @@
+C:\Dev\Townsend\Townsend.DomainTests\bin\Debug\Townsend.DomainTests.dll
+C:\Dev\Townsend\Townsend.DomainTests\bin\Debug\Townsend.DomainTests.pdb
+C:\Dev\Townsend\Townsend.DomainTests\bin\Debug\nunit.framework.dll
+C:\Dev\Townsend\Townsend.DomainTests\bin\Debug\nunit.framework.xml
+C:\Dev\Townsend\Townsend.DomainTests\obj\Debug\Townsend.DomainTests.csprojResolveAssemblyReference.cache
+C:\Dev\Townsend\Townsend.DomainTests\obj\Debug\Townsend.DomainTests.dll
+C:\Dev\Townsend\Townsend.DomainTests\obj\Debug\Townsend.DomainTests.pdb
+C:\Dev\Townsend\Townsend.DomainTests\bin\Debug\Townsend.Domain.dll
+C:\Dev\Townsend\Townsend.DomainTests\bin\Debug\EntityFramework.dll
+C:\Dev\Townsend\Townsend.DomainTests\bin\Debug\Townsend.Domain.pdb
+C:\Dev\Townsend\Townsend.DomainTests\bin\Debug\EntityFramework.xml
